@@ -1,0 +1,10 @@
+#tampilan {
+	margin: 0 auto;
+	padding: 20px;
+	background:#9b2020;
+	width: 600px;
+}
+
+#form-input {
+	margin-left: 20px;
+}
